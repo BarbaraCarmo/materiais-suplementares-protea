@@ -1,4 +1,8 @@
-# Materiais Suplementares do Protea
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/558ffbba-8e9d-4071-bf0e-2c5e4cb17848" alt="Logo Protea" height="250">
+</p>
+
+<h1 align="center">Materiais Suplementares do Protea</h1>
 
 Este repositório reúne os materiais suplementares do projeto **Protea**, um aplicativo móvel educativo voltado ao apoio da educação em segurança corporal e prevenção do abuso sexual infantil para crianças com Transtorno do Espectro Autista (TEA), na faixa de 6 a 11 anos.
 
